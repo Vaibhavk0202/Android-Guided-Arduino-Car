@@ -23,9 +23,6 @@ Android-Guided-Arduino-Car/
 ├── Diagrams/
 │   ├── pin_diagram.jpg
 │   ├── flowchart.jpg
-├── Documentation/
-│   ├── Project_Report.pdf
-│   ├── References.md
 ├── LICENSE
 ```
 
