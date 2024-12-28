@@ -23,6 +23,8 @@ Android-Guided-Arduino-Car/
 ├── Diagrams/
 │   ├── pin_diagram.jpg
 │   ├── flowchart.jpg
+├── AndroidApp/
+│   └── car_control_app.apk
 ├── LICENSE
 ```
 
@@ -36,16 +38,17 @@ Android-Guided-Arduino-Car/
 
 ## Software
 - Arduino IDE
-- Android App (via Play Store)
+- Android App (available as an APK file in this repository)
 
 ## Installation
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/Vaibhavk0202/Android-Guided-Arduino-Car.git
    ```
 2. Load the code from `Code/arduino_code.ino` into the Arduino IDE.
 3. Connect the hardware as described.
-4. Use the Android app to connect via Bluetooth and control the car.
+4. Install the Android App:
+   Download and install the APK file from `AndroidApp/ folder`. You can transfer the APK file to your Android device and install it.
 
 ## Future Enhancements
 - Adding ultrasonic sensors for obstacle detection.
