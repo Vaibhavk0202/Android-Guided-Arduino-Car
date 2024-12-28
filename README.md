@@ -44,7 +44,7 @@ Android-Guided-Arduino-Car/
    git clone https://github.com/Vaibhavk0202/Android-Guided-Arduino-Car.git
    ```
 2. Load the code from `Code/arduino_code.ino` into the Arduino IDE.
-3. Connect the hardware as described in the `Documentation/Project_Report.pdf`.
+3. Connect the hardware as described.
 4. Use the Android app to connect via Bluetooth and control the car.
 
 ## Future Enhancements
